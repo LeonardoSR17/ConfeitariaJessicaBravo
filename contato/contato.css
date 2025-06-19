@@ -1,0 +1,72 @@
+.section-header {
+    background-color: #ffccdc;
+    padding: 20px;
+    text-align: center;
+}
+
+.section-header h2 {
+    margin: 0;
+    color: white;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.contact-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 40px 20px;
+    gap: 40px;
+}
+
+.contact-image {
+  flex: 1 1 400px;
+  max-width: 500px;
+}
+
+.contact-image img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.contact-text {
+    max-width: 500px;
+}
+
+.contact-text p {
+    font-size: 14px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.instagram-button {
+    display: inline-flex;
+    align-items: center;
+    background-color: #ffccdc;
+    color: white;
+    font-weight: bold;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 30px;
+    margin-top: 20px;
+    font-size: 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.instagram-button:hover {
+    background-color: #f2a8bd;
+}
+
+.instagram-button img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+@media (max-width: 768px) {
+    .contact-text{
+        text-align: center;
+    }
+}

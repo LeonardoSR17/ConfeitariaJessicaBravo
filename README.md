@@ -1,4 +1,5 @@
-Sobre o Projeto
+## Sobre esse site e o projeto 🧐
+
 Este site foi desenvolvido com o objetivo de apoiar um pequeno negócio local por meio de uma iniciativa extensionista do Centro Universitário Cesuca. A proposta integrou as disciplinas de Programação Web e Interação Humano-Computador, unindo esforços para criar uma solução prática e colaborativa.
 
 Durante a atividade, os alunos foram divididos em grupos multidisciplinares, onde cada equipe tinha responsabilidades específicas:
